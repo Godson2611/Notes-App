@@ -18,7 +18,7 @@ For a design preview of the app, you can view it on [Figma](https://www.figma.co
 
 ## Usage
 
-1. Open the app in your web browser at [Link](https://legendary-tanuki-af52e2.netlify.app).
+1. Open the app in your web browser at [Link](https://gorgeous-semolina-0b1c45.netlify.app).
 2. Create, edit, or delete notes as needed.
 
 ### Thank you for visiting!
