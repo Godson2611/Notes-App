@@ -1,8 +1,24 @@
-# React + Vite
+# Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a notes app built for a Guvi task. It allows users to create, edit, and delete notes. The app is developed using:
 
-Currently, two official plugins are available:
+- **React**: For the front-end, built with React.
+- **CSS**: Styling and layout designed with CSS.
+- **React Routing**: Used for navigation between different views.
+- **Redux**: Utilized for state management.
+- **Bootstrap/React Bootstrap**: Optionally used for better styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Design Preview
+
+For a design preview of the app, you can view it on [Figma](https://www.figma.com/community/file/1282926423483406666).
+
+## Screenshots
+
+![App Screenshot](./src/asset/img/)
+
+## Usage
+
+1. Open the app in your web browser at [Link](https://legendary-tanuki-af52e2.netlify.app).
+2. Create, edit, or delete notes as needed.
+
+### Thank you for visiting!
