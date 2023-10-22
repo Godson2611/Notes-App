@@ -14,7 +14,7 @@ For a design preview of the app, you can view it on [Figma](https://www.figma.co
 
 ## Screenshots
 
-![App Screenshot](./src/asset/img/)
+![App Screenshot](/src/asset/img/screenShort.jpeg)
 
 ## Usage
 
